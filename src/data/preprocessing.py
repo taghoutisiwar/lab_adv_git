@@ -1,4 +1,4 @@
-TRAIN_SPLIT = 0.9
+TRAIN_SPLIT = 0.7
 
 def load_data(path):
     """Load raw dataset from path."""
