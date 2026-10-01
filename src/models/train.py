@@ -1,2 +1,3 @@
 def train():
-    pass
+ for epoch in range(10):
+ pass
